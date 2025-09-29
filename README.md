@@ -1,6 +1,6 @@
 <div align="center"><img src="https://github.com/mohammadbatvaz/mohammadbatvaz/blob/main/cropped-simple-background-quote-minimalism-text-wallpaper-b08b2f5603389ae62550a0deef44e998%20(1).jpg" align="center" style="width: 100%" /></div>
 
-### <div align="center">Hey, I'm Mohammad 👨‍💻</div>
+## <div align="left">Hey, I'm M. Batvaz 👨‍💻</div> ##
 
 
 - 💻 Currently learning **backend development with ASP.NET Core**
@@ -11,6 +11,14 @@
   
 -   🎮 Interested in video games and anime
 
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbatvaz&show_icons=true&count_private=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbatvaz&hide_border=true&layout=compact"/>
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>
@@ -30,17 +38,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbatvaz&show_icons=true&count_private=true&hide_border=true"/>
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbatvaz&hide_border=true&layout=compact"/>
-</div>
-
-
-<div align="center">
   <a href="https://github.com/mohammadbatvaz" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
   <a href="https://t.me/M_Batvaz" target="_blank"><img src=https://img.shields.io/badge/Telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" /></a>
-  <a href="https://twitter.com/@MBatvaz" target="_blank"><img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" /></a>
   <a href="https://instagram.com/m.batvaz" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> </div>
 
 <div align="center">
