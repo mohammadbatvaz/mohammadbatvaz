@@ -1,10 +1,14 @@
-<div align="center"><img src="https://drive.google.com/file/d/1ukbXv_pX9vKmob7o5M2rYJANOSMj4130/view?usp=sharing" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github.com/mohammadbatvaz/mohammadbatvaz/blob/main/cropped-simple-background-quote-minimalism-text-wallpaper-b08b2f5603389ae62550a0deef44e998%20(1).jpg" align="center" style="width: 100%" /></div>
 
 ### <div align="center">Hey, I'm Mohammad 👨‍💻</div>
 
+
 - 💻 Currently learning **backend development with ASP.NET Core**
+  
 - 🔧 Skilled in **C#** and **Python**
+  
 -  🌱 Always curious, detail-oriented, and creative when solving problems
+  
 -   🎮 Interested in video games and anime
 
 
