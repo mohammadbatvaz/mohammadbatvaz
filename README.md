@@ -1,6 +1,8 @@
 <div align="center"><img src="https://drive.google.com/file/d/1ukbXv_pX9vKmob7o5M2rYJANOSMj4130/view?usp=sharing" align="center" style="width: 100%" /></div>
 
-<div align="center">Hey, I'm Mohammad 👨‍💻</div> 
+<div align="center">
+  <p style="font-size: 32px;">Hey, I'm Mohammad 👨‍💻</p>
+</div>
 
 - 💻 Currently learning **backend development with ASP.NET Core**
 - 🔧 Skilled in **C#** and **Python**
