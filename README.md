@@ -14,8 +14,8 @@
 <br>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbatvaz&show_icons=true&count_private=true&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbatvaz&hide_border=true&layout=compact"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadbatvaz&show_icons=true&count_private=true&hide_border=true&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadbatvaz&hide_border=true&layout=compact&theme=dark"/>
 </div>
 
 <br>
