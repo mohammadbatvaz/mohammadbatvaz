@@ -38,9 +38,13 @@
 <br>
 
 <div align="center">
-  <a href="https://github.com/mohammadbatvaz" target="_blank"><img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
-  <a href="https://t.me/M_Batvaz" target="_blank"><img src=https://img.shields.io/badge/Telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" /></a>
-  <a href="https://instagram.com/m.batvaz" target="_blank"><img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" /></a> </div>
+  <a href="https://github.com/mohammadbatvaz" target="_blank"><img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" /></a>
+  <a href="https://t.me/M_Batvaz" target="_blank"><img src="https://img.shields.io/badge/Telegram-%2300acee.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 5px;" /></a>
+  <a href="https://instagram.com/m.batvaz" target="_blank"><img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" /></a>
+  <a href="mailto:mohammadbatvaz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" style="margin-bottom: 5px;" /></a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohammadbtavaz&&style=flat-square" align="center" />
